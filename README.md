@@ -59,7 +59,7 @@
 
 - 📖 **University**\
 📆 2006 - 2012\
-🎓 **Universidad Nacional de Salta** - Salta, Argentina
+🎓 **Universidad Nacional de Salta** - Licenciatura en Análisis de Sistemas - Salta, Argentina
 
 
 ## Experience
@@ -76,9 +76,20 @@
 <img align="right" src="https://img.shields.io/badge/Linux-181717?logo=linux&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Docker-3498DB?logo=docker&logoColor=white" />
 -->
-  
+
 1. 👨‍💻 **Angular Developer**\
-- 📆 2020 - moment\
+- 📆 2021 - moment\
+- 🏢 **Mobile Computing** - Remoto - Salta, Argentina
+- <img src="https://img.shields.io/badge/Angular-3498DB?logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Typescript-181717?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Html5-4A154B?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-3498DB?logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-181717?logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Devops-4A154B?logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Github-E34F26?logo=github&logoColor=white" />
+  
+2. 👨‍💻 **Angular Developer**\
+- 📆 2020 - 2021\
 - 🏢 **Sofrecom Argentina** - Remoto - Salta, Argentina
 - <img src="https://img.shields.io/badge/Angular-3498DB?logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Typescript-181717?logo=typescript&logoColor=white" />
@@ -91,7 +102,7 @@
   <img src="https://img.shields.io/badge/Gitlab-3498DB?logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-4A154B?logo=mariadb&logoColor=white" />
 
-2. 👨‍💻 **Fullstack Developer**\
+3. 👨‍💻 **Fullstack Developer**\
 - 📆 2017 - 2020\
 - 🏢 **Ministerio de la Primera Infancia** - Salta, Argentina
 - <img src="https://img.shields.io/badge/Angular-3498DB?logo=angular&logoColor=white" />
@@ -106,7 +117,7 @@
   <img src="https://img.shields.io/badge/Sqlite-181717?logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-181717?logo=firebase&logoColor=white" />
 
-3. 👨‍💻 **Freelance Developer**\
+4. 👨‍💻 **Freelance Developer**\
 - 📆 2015 - 2017\
 - 🏢 **Viboz** - Salta, Argentina
 - <img src="https://img.shields.io/badge/MeteorJS-3498DB?logo=meteor&logoColor=white" />
